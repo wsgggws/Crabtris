@@ -110,7 +110,7 @@ void print_map() {
            "\tSPACE: 最右(→→)\t\t\t游戏不能暂停\n"
            "\tl/L: 右(→)\t\t\t结束只能Ctrl+c\n"
            "\tk/K: 上(↑)\t\t\t不计分数，看能玩多久\n"
-           "\tj/J: 下(↓)\t\t\t蟹如人生呀!\n");
+           "\tj/J: 下(↓)\t\t\t蟹如人生矣，戏T!\n");
 }
 
 void restore_console(void) {
